@@ -19,4 +19,4 @@ app.use(errors())
  *  DELETE: delete informação no backend, acessado via aplicação
  */
 
-app.listen(3333)
+module.exports = app
